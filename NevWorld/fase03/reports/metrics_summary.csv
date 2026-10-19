@@ -1,0 +1,10 @@
+metric,value
+hunt_counts,1
+hunts_tipo,"prey_type
+deer    1
+Name: count, dtype: int64"
+gains,11
+spending,0
+resource_balance,"resource_type
+food    49.0
+Name: amount_delta, dtype: float64"
